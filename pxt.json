@@ -1,5 +1,6 @@
 {
     "name": "Maqueen Adrian, Martín y Pablo",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
